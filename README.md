@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="Ekran görüntüsü 2025-04-08 003808.png"
 
-" alt="Dice Roller Screenshot" width="300"/>
+
+ alt="Dice Roller Screenshot" width="300"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@ Flutter’a yeni başlayan biri olarak, bu proje sayesinde temel yapı taşları
 ## 📷 Ekran Görüntüsü
 
 <p align="center">
-  <img src="![Ekran görüntüsü 2025-04-08 003759](https://github.com/user-attachments/assets/c7bb2d9e-7e59-48f6-bfdc-0832b885a396)
+  <img src="Ekran görüntüsü 2025-04-08 003808.png"
 " width="250"/>
 </p>
 
