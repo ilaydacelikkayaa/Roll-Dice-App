@@ -1,16 +1,64 @@
-# second_app
+<h1 align="center">🎲 Dice Roller App</h1>
 
-A new Flutter project.
+<p align="center">
+  Basit ama eğlenceli bir zar atma uygulaması! <br>
+  Flutter ile geliştirdiğim ilk projelerden biri 🎯
+</p>
 
-## Getting Started
+<p align="center">
+  <img src="Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-08%20003759.png" alt="Dice Roller Screenshot" width="300"/>
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Proje Hakkında
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Dice Roller**, Flutter öğrenme sürecimde geliştirdiğim sade ve renkli bir uygulamadır.  
+Uygulamanın amacı, kullanıcı her “Roll Dice” butonuna bastığında ekrandaki zar görselini rastgele bir değere dönüştürmektir.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter’a yeni başlayan biri olarak, bu proje sayesinde temel yapı taşlarını ve arayüz tasarımını öğrendim.
+
+---
+
+## ✨ Özellikler
+
+- 🎲 Rastgele zar atma fonksiyonu
+- 🎨 Gradient (renk geçişli) arka plan
+- 🧩 Özelleştirilmiş metin bileşeni (Custom Text Widget)
+- 📱 Responsive ve sade arayüz tasarımı
+
+---
+
+## 🛠 Kullanılan Teknolojiler
+
+- **Flutter** – Mobil uygulama geliştirme çerçevesi  
+- **Dart** – Flutter ile kullanılan programlama dili  
+- **Stateless & Stateful Widgets** – Flutter'ın temel yapı taşları  
+
+---
+
+## 📷 Ekran Görüntüsü
+
+<p align="center">
+  <img src="![Ekran görüntüsü 2025-04-08 003759](https://github.com/user-attachments/assets/c7bb2d9e-7e59-48f6-bfdc-0832b885a396)
+" width="250"/>
+</p>
+
+---
+
+## 🧪 Uygulamayı Çalıştırma
+
+Bu uygulamayı kendi bilgisayarınızda çalıştırmak için şu adımları izleyebilirsiniz:
+
+```bash
+# 1. Repositoriesini klonlayın
+git clone https://github.com/kullaniciAdin/dice_roller_app.git
+
+# 2. Klasöre girin
+cd dice_roller_app
+
+# 3. Bağımlılıkları yükleyin
+flutter pub get
+
+# 4. Uygulamayı başlatın
+flutter run
