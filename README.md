@@ -8,8 +8,6 @@
 <p align="center">
 
 
- alt="Dice Roller Screenshot" width="300"/>
-</p>
 
 ---
 
