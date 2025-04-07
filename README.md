@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="(![Ekran görüntüsü 2025-04-08 003759](https://github.com/user-attachments/assets/390a3c6d-10e2-4846-abe2-2ed95332c4e1)
-)
+  <img src="Ekran görüntüsü 2025-04-08 003808.png"
+
 " alt="Dice Roller Screenshot" width="300"/>
 </p>
 
